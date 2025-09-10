@@ -66,4 +66,3 @@ Make sure you have these installed:
 - `SoftwareSerial` (built-in)
 - `IRremote` (for the IR transmitter)
 - `NewPing` (optional for HC-SR04 handling)
-- 
